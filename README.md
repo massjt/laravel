@@ -8,6 +8,7 @@
 [laracasts](https://laracasts.com)
 
 ## gitbook记录笔记
+>gitbook是基于node.js的命令行工具，需先安装node，再通过npm安装
 
     1. 在github上建立一个仓库
     2. 登录gitbook,用github账号登录，选择创建的git仓库
